@@ -1,8 +1,8 @@
 # New-resoostories
 The application structure is as follows:
-server-product-management - Microservice implemented using Spring boot.
-client-product-management - A NodeJs application implemented using Angular 7. This consumes services hosted by server side.
+server-product-management - Express js with node js.
+client-product-management - A project using React. This consumes services hosted by server side.
 Access server side using following URL
 http://localhost:8080
 Access application using following URL
-http://localhost:4200
+http://localhost:3000
