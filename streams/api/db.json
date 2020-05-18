@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "StreamOne",
+      "description": "This is stream 1",
+      "id": 1
+    },
+    {
+      "title": "StreamTwo",
+      "description": "This is stream 2",
+      "id": 2
+    },
+    {
+      "title": "Create stream with ID",
+      "description": "I create a stream with id",
+      "userId": "117041376392565799267",
+      "id": 3
+    },
+    {
+      "title": "Test4",
+      "description": "This is a test for edit using patch instead of put",
+      "userId": "117041376392565799267",
+      "id": 4
+    }
+  ]
+}
